@@ -1,0 +1,19 @@
+
+Average Data
+-------------
+Average Latitude: 2.0718
+Average Longitude: 5.5825
+Average Temperature: 24.52 degrees Celsius
+Average Humidity: 5.33%
+Average Wind Speed: 0.15 m/s
+Average Pressure: 84.67 hPa
+Average Visibility: 500.00 meters
+
+Weather Comparison
+-------------------
+   - The temperature is within a normal range.
+   - It is dry, consider moisturizing.
+   - Wind speed is outside the normal range.
+   - There might be a change in atmospheric pressure.
+   - Visibility is either low or high, be cautious.
+Weather Comparison Complete

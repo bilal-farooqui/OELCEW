@@ -1,0 +1,48 @@
+
+Environmental Data
+------------------
+Country: PK
+Time Zone: 18000
+Latitude: 24.861
+Longitude: 66.9905
+Humidity: 64
+Temperature: 294.23
+Wind Speed: 2.06
+Pressure: 1016
+Visibility: 6000
+
+Environmental Data
+------------------
+Country: PK
+Time Zone: 18000
+Latitude: 24.861
+Longitude: 66.9905
+Humidity: 64
+Temperature: 294.23
+Wind Speed: 2.06
+Pressure: 1016
+Visibility: 6000
+
+Environmental Data
+------------------
+Country: PK
+Time Zone: 18000
+Latitude: 24.861
+Longitude: 66.9905
+Humidity: 64
+Temperature: 294.23
+Wind Speed: 1.54
+Pressure: 1016
+Visibility: 6000
+
+Environmental Data
+------------------
+Country: PK
+Time Zone: 18000
+Latitude: 24.861
+Longitude: 66.9905
+Humidity: 64
+Temperature: 294.23
+Wind Speed: 1.54
+Pressure: 1016
+Visibility: 6000
