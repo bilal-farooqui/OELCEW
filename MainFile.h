@@ -385,5 +385,3 @@ void send_email() {
 }
 
 #endif // HEADERFILE_H
-
-
